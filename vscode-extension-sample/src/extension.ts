@@ -5,7 +5,7 @@ let outputChannel: vscode.OutputChannel;
 
 export async function activate(context: vscode.ExtensionContext) {
   outputChannel = vscode.window.createOutputChannel("My Extension");
-  outputChannel.appendLine("Extension activated");
+  outputChannel.appendLine("Extension activated!");
   outputChannel.show();
 
   const keycloakIssuer = await Issuer.discover(
