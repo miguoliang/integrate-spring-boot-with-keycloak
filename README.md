@@ -6,11 +6,11 @@
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Technologies](#technologies)
+- [Accessing the applications](#accessing-the-applications)
 - [How to run](#how-to-run)
   - [Web application](#web-application)
   - [VSCode extension](#vscode-extension)
   - [IntelliJ IDEA extension](#intellij-idea-extension)
-- [Accessing the applications](#accessing-the-applications)
 - [Source code you may want to check](#source-code-you-may-want-to-check)
 - [License](#license)
 
