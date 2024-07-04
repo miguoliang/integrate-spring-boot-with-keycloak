@@ -1,0 +1,24 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore built extension files
+out/
+
+# Ignore user-specific settings
+.vscode/
+
+# Ignore debugging files
+.vscode-launch/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore .vscodeignore file
+.vscodeignore
+
+# Ignore any other files or directories specific to your project
+dist/
