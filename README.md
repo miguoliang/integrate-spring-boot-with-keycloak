@@ -30,6 +30,8 @@ This is only a sample project, so it may not be suitable for production use. For
 - Use a production-ready Keycloak server.
 - Use a production-ready database.
 - Use a production-ready web server.
+- Store the access token securely.
+- Handle token expiration and refresh.
 - More complex security configurations.
 
 ## Why Keycloak?
